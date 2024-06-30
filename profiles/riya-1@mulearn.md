@@ -11,24 +11,25 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Shop Management System**  | A comprehensive system to manage shop operations, built with Django and SQLite                                            | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/RiyaDominic/shopmanagementsystem.git)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As a team lead in my final year project, I coordinated a group of five to develop a complex web application using Django, ensuring all deadlines were met and the project exceeded expectations.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Studied the various concepts of networking in degree cource
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- Immediate Plans: Secure a role as a Python Django developer in a reputable tech company in Kerala.
+- Long-term Plans: Contribute to Kerala’s startup ecosystem by launching a tech startup focused on innovative web solutions and mentoring upcoming developers.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has a burgeoning tech ecosystem with great potential. By focusing on enhancing tech education and fostering a collaborative community, Kerala can become a leading tech hub in India.
 
 #### History of Open Source Contributions:
 
