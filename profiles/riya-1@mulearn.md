@@ -44,11 +44,11 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- NIL
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- NIL
 
 
 
