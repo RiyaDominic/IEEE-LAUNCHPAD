@@ -11,7 +11,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Shop Management System**  | A comprehensive system to manage shop operations, built with Django and SQLite                                            | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/RiyaDominic/shopmanagementsystem.git)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Movie Review**  |A simple website to post new movies reviews and post ratings                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/RiyaDominic/moviereview.git)             |
 
 #### Leadership and Influence:
 
