@@ -2,8 +2,7 @@
 
 ### PYTHON DJANGO WEB DEVELOPER
 
-> I COMPLETED MY GRADUATION IN 2023 FROM KANNUR UNIVERSITY.MY AREA OF STUDY IS BCA.
-
+> With a solid foundation in BCA and enriched by an intensive internship focused on Python, Django, Flask, and data analysis, I aim to transition into an entry-level role where I can leverage my acquired skills. My objective is to contribute effectively to innovative projects within a dynamic IT environment, while continuing to expand my knowledge and proficiency in the field.
 
 ## Portfolio Highlights
 
